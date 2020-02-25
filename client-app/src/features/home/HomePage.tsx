@@ -1,5 +1,5 @@
 import React, { useContext, Fragment } from 'react';
-import { Container, Segment, Header, Button, Image, Message, List } from 'semantic-ui-react';
+import { Container, Segment, Header, Button, Image } from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 import { RootStoreContext } from '../../app/stores/rootStore';
 import LoginForm from '../user/LoginForm';
