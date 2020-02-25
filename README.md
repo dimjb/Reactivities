@@ -1,5 +1,5 @@
 # Reactivities
-Repository for Reactivities training course using .Net Core, React (with Typescript) (https://github.com/TryCatchLearn/Reactivities30), Mobx with some features modified/completed (ex. Upload Image file to Server instead of Cloudinary, Activity Deletion).
+Repository for [Reactivities training course using .Net Core, React (with Typescript) , Mobx](https://github.com/TryCatchLearn/Reactivities30) with some features modified/completed (ex. Upload Image file to Server instead of Cloudinary, Activity Deletion).
 ### This is the development version of the app.
 1. To run the API (cd into the API folder and execute **dotnet run**) you need to install at least the [ASP.NET Core Runtime 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 2. To run the client app (cd into the client-app folder, execute **npm install** and then **npm start**), [NodeJS](https://nodejs.org/en/) installation is required.
