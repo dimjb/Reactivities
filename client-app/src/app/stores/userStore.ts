@@ -28,6 +28,8 @@ export default class UserStore {
     }
 
     @action register = async (values: IUserFormValues) => {
+        console.log(values);
+        
 		try {
             const user = await agent.User.register(values);
             runInAction(() => {
